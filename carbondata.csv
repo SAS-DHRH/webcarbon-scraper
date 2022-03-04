@@ -1,12 +1,25 @@
-url,type,value
-sas.ac.uk,grams of CO2,4.2032713019609
-ials.sas.ac.uk,grams of CO2,0.27469345958729
-ics.sas.ac.uk,grams of CO2,1.6087082636473
-commonwealth.sas.ac.uk,grams of CO2,1.8614171553089
-ies.sas.ac.uk,grams of CO2,0.79386252473749
-history.ac.uk,grams of CO2,6.7264476443088
-modernlanguages.sas.ac.uk,grams of CO2,1.9394311130513
-philosophy.sas.ac.uk,grams of CO2,1.9693981764908
-warburg.sas.ac.uk,grams of CO2,1.4334140849172
-british-history.ac.uk,grams of CO2,0.59236193561635
-beinghumanfestival.org,grams of CO2,1.6586969763966
+url,source,type,value
+sas.ac.uk,websitecarbon.com,grams of CO2,4.2614709949156
+ials.sas.ac.uk,websitecarbon.com,grams of CO2,0.31689681269112
+ics.sas.ac.uk,websitecarbon.com,grams of CO2,1.5958281173854
+commonwealth.sas.ac.uk,websitecarbon.com,grams of CO2,1.644618340513
+ies.sas.ac.uk,websitecarbon.com,grams of CO2,[]
+history.ac.uk,websitecarbon.com,grams of CO2,4.3521088825772
+modernlanguages.sas.ac.uk,websitecarbon.com,grams of CO2,2.0277112074982
+philosophy.sas.ac.uk,websitecarbon.com,grams of CO2,1.6492073259258
+warburg.sas.ac.uk,websitecarbon.com,grams of CO2,1.4181592653051
+british-history.ac.uk,websitecarbon.com,grams of CO2,0.682262523073
+beinghumanfestival.org,websitecarbon.com,grams of CO2,1.6416522595577
+mythaxis.co.uk,websitecarbon.com,grams of CO2,2.3192765308229
+sas.ac.uk,websiteemissions.com,grams of CO2,4.261162640992552
+ials.sas.ac.uk,websiteemissions.com,grams of CO2,0.28341859322972596
+ics.sas.ac.uk,websiteemissions.com,grams of CO2,1.5958267719252035
+commonwealth.sas.ac.uk,websiteemissions.com,grams of CO2,1.6443767246091736
+ies.sas.ac.uk,websiteemissions.com,grams of CO2,0.7397835172014311
+history.ac.uk,websiteemissions.com,grams of CO2,1.7911293010693043
+modernlanguages.sas.ac.uk,websiteemissions.com,grams of CO2,2.0271006600232795
+philosophy.sas.ac.uk,websiteemissions.com,grams of CO2,1.6492060084128752
+warburg.sas.ac.uk,websiteemissions.com,grams of CO2,1.4181813116883857
+british-history.ac.uk,websiteemissions.com,grams of CO2,0.682296035811305
+beinghumanfestival.org,websiteemissions.com,grams of CO2,1.6416969831334427
+mythaxis.co.uk,websiteemissions.com,grams of CO2,2.559094020863995
